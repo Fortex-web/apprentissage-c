@@ -15,5 +15,5 @@ int main() {
         printf("%f\n", t[i]);
     }
     free(t);
-    
+    // test depuis VS Code
 }
