@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/fortex/Documents/apprentissage-c/chaine_noeud'
+relocations:     []
+...
